@@ -6,4 +6,4 @@ An AI solution for the pacman agent to find paths through his maze world, both t
 2. Multi-agents phase - To be updated...
 
 
-****** The GUI for the code as well as some runtime features were adopter from the UC Berkley Open Course Ware for Artificial Intelligence (CS 188) *******
+****** The GUI for the code as well as some runtime features were adopted from the UC Berkley Open Course Ware for Artificial Intelligence (CS 188) *******
